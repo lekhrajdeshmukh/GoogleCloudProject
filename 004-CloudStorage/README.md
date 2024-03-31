@@ -7,8 +7,7 @@
 **Object (Cloud)Storage**
 
     - Computer data storage architecture that manages data as objects(pictures, video, CSV files)
-    - **WHat is it?**
-    
+    - **WHat is it?**    
         - Cloud storage is used for block storage such as photos, videos or any file of any format
         - You store the objects in container called "Buckets"
         - It allows you to choose a geographical location of where your data lives
