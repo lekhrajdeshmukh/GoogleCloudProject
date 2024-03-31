@@ -1,11 +1,14 @@
 **Storage service Options**
+
     - Object Storage
     - File Storage
     - Block Storage
 
 **Object (Cloud)Storage**
+
     - Computer data storage architecture that manages data as objects(pictures, video, CSV files)
     - **WHat is it?**
+    
         - Cloud storage is used for block storage such as photos, videos or any file of any format
         - You store the objects in container called "Buckets"
         - It allows you to choose a geographical location of where your data lives
@@ -16,6 +19,7 @@
         - Pays for What you use - this includes the amount of data you store and how long you store it.
 
 **File storage(Cloud Filestore)**
+
     - Used to organize and store data on a computer hard drive or on network-attached storage(flash drives, hard rives)
     - **What is it?**
         - Managed file storage service for applications that require a filesystem interface and a shared filesystem for data.
@@ -27,6 +31,7 @@
         - Pay for only what you use
 
 **Block storage(Persistent disk)**
+
     - Used to store data files on storage area networks usually in a sequence of bytes or bits.
     - **What is it?**
         - A durable network storage device that your compute instance can access like physical disks
